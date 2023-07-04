@@ -15,5 +15,8 @@ main > article {
 }
 main > aside {
     flex: 1;
-    overflow-y: auto
+    overflow-y: auto;
+    background: #868484;
+    color: red;
+    font-size: large;
 }
