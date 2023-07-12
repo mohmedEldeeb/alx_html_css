@@ -2,7 +2,7 @@
     display: flex;
 } 
 [class*='col-'] {
-    float: left;
+    flex: 1;
     /* Other properties */
   }
   
