@@ -1,0 +1,11 @@
+.row {
+    display: flex;
+} 
+[class*='col-'] {
+    flex: 1;
+    /* Other properties */
+  }
+  
+.section-latest-news {
+    flex-direction: row-reverse;
+}
