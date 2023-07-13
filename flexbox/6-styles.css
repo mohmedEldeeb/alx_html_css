@@ -208,6 +208,7 @@
   
   
   .nav {
+    margin: 0;
     padding: 0;
     list-style: none;
     text-align: center;
@@ -537,3 +538,8 @@ ul.row {
   .nav {
     display: flex;
   }
+
+.nav .nav-item + .nav-item {
+    margin: var(--nav-item-margin);
+}
+    
