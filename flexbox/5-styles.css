@@ -42,7 +42,6 @@ ul.row {
   }
   
   .header {
-  padding: var(--header-padding);
        position: relative;
        z-index: 3;
        background: transparent;
