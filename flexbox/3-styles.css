@@ -1,0 +1,17 @@
+.row {
+    display: flex;
+} 
+[class*='col-'] {
+    flex: 1;
+    /* Other properties */
+  }
+/* Section Latest news ============================= */
+
+.section-latest-news .row {
+    flex-direction: row-reverse;
+}
+/* Section SERVICES ============================= */
+.section-services .row {
+    flex-wrap: wrap;
+}
+/*** 4. CARD ***/
