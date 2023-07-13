@@ -25,7 +25,6 @@
 }
 
 [class*='col-'] {
-    padding: 0px;
     float: none;
     margin: 1rem;
 }
