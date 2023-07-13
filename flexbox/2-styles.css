@@ -6,6 +6,6 @@
     /* Other properties */
   }
   
-.section-latest-news {
+.section-latest-news .row {
     flex-direction: row-reverse;
 }
